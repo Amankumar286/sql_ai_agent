@@ -5,8 +5,8 @@ TalkToDB is a production-minded AI Agent that enables users to interact with str
 ---
 
 ## 🔗 Project Links
-* **Live Demo:** [Insert Your Streamlit URL Here]
-* **Resume:** [Insert Your Resume Link Here]
+* **Live Demo:** https://sqlaiagent-ccvuvtaaw5hpcvozvwlloa.streamlit.app/
+* **Resume:** https://drive.google.com/drive/folders/1GsxxaNR3G8elRgOFCoNHgsvU8zuJdh8F?usp=drive_link
 
 ---
 
