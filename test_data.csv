@@ -1,0 +1,51 @@
+Order_ID,Product,Category,Price,Quantity,City,Order_Date
+1,Laptop,Electronics,15369,3,Mumbai,2025-11-18
+2,Laptop,Electronics,51970,5,Pune,2025-02-24
+3,Smartphone,Electronics,37292,2,Bangalore,2026-01-07
+4,Monitor,Electronics,72796,5,Bangalore,2025-09-21
+5,Water Bottle,Fitness,60087,4,Chennai,2025-05-07
+6,Smartphone,Electronics,27111,5,Bangalore,2025-12-28
+7,Desk Chair,Furniture,25422,3,Chennai,2025-09-20
+8,Desk Chair,Furniture,26727,1,Delhi,2026-01-03
+9,Laptop,Electronics,7096,4,Hyderabad,2025-08-24
+10,Monitor,Electronics,67513,2,Hyderabad,2025-07-19
+11,Coffee Maker,Appliances,62973,5,Delhi,2025-03-14
+12,Desk Chair,Furniture,3559,1,Delhi,2025-11-28
+13,Laptop,Electronics,71972,1,Mumbai,2025-07-16
+14,Smartphone,Electronics,30537,2,Delhi,2025-04-30
+15,Coffee Maker,Appliances,55791,5,Chennai,2025-04-16
+16,Coffee Maker,Appliances,71112,3,Chennai,2025-06-13
+17,Laptop,Electronics,10896,1,Hyderabad,2026-01-20
+18,Monitor,Electronics,5567,5,Chennai,2025-08-30
+19,Smartphone,Electronics,9868,2,Mumbai,2025-12-28
+20,Laptop,Electronics,49242,4,Hyderabad,2025-02-11
+21,Coffee Maker,Appliances,58449,5,Bangalore,2025-07-29
+22,Smartphone,Electronics,27303,4,Delhi,2025-10-03
+23,Headphones,Electronics,20839,1,Delhi,2025-07-27
+24,Smartphone,Electronics,12919,1,Pune,2025-03-27
+25,Monitor,Electronics,15932,2,Delhi,2025-04-18
+26,Headphones,Electronics,32439,1,Hyderabad,2025-12-17
+27,Smartphone,Electronics,27217,4,Pune,2026-01-29
+28,Laptop,Electronics,37791,4,Mumbai,2025-09-01
+29,Headphones,Electronics,60386,2,Chennai,2025-08-07
+30,Smartphone,Electronics,33400,1,Hyderabad,2025-02-06
+31,Laptop,Electronics,48372,3,Mumbai,2025-12-26
+32,Water Bottle,Fitness,29255,4,Pune,2025-10-13
+33,Laptop,Electronics,63989,5,Delhi,2025-06-30
+34,Laptop,Electronics,76926,1,Hyderabad,2025-03-29
+35,Desk Chair,Furniture,26726,2,Delhi,2025-08-11
+36,Water Bottle,Fitness,61936,2,Bangalore,2025-12-09
+37,Laptop,Electronics,15499,4,Bangalore,2025-04-25
+38,Coffee Maker,Appliances,42857,2,Pune,2025-08-27
+39,Monitor,Electronics,70843,5,Hyderabad,2025-11-10
+40,Coffee Maker,Appliances,43196,4,Mumbai,2025-09-26
+41,Laptop,Electronics,39949,2,Pune,2025-07-15
+42,Coffee Maker,Appliances,19749,4,Bangalore,2025-04-13
+43,Smartphone,Electronics,78315,4,Pune,2025-09-02
+44,Desk Chair,Furniture,24170,5,Delhi,2025-08-09
+45,Water Bottle,Fitness,1584,2,Hyderabad,2025-05-31
+46,Smartphone,Electronics,64036,2,Chennai,2025-10-26
+47,Water Bottle,Fitness,6219,3,Mumbai,2025-08-31
+48,Desk Chair,Furniture,22421,2,Mumbai,2026-01-08
+49,Water Bottle,Fitness,55366,3,Hyderabad,2026-01-04
+50,Monitor,Electronics,4717,3,Mumbai,2025-10-31
